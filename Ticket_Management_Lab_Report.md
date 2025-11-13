@@ -1,0 +1,32 @@
+# Ticket Management Lab Report
+
+**Date:** November 13, 2025
+
+---
+
+## Lab Overview
+This lab focused on managing IT service requests within **ServiceNow (SNOW)**. The primary objectives were to create, resolve, and close a password reset ticket to simulate real-world IT support workflows.
+
+---
+
+## Tasks Completed
+
+1. **Created a Password Reset Ticket**
+   - Logged into ServiceNow (SNOW).
+   - Created a new incident/ticket for a password reset request.
+   - Entered user details and issue description.
+   - Assigned the ticket to the appropriate support group.
+
+2. **Resolved the Ticket**
+   - Verified the user’s identity and reset the password.
+   - Updated the ticket with resolution details.
+   - Marked the status as *Resolved*.
+
+3. **Closed the Ticket**
+   - Reviewed the incident to ensure accuracy.
+   - Updated final notes and changed the ticket status to *Closed*.
+
+---
+
+## Outcome
+The lab demonstrated effective ticket lifecycle management using ServiceNow. By completing the steps of creation, resolution, and closure, I practiced real-world IT support processes and improved familiarity with the ServiceNow interface.
